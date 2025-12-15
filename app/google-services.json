@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273115647522",
+    "project_id": "phonedown-1b673",
+    "storage_bucket": "phonedown-1b673.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273115647522:android:b8b23929fe79f12387047b",
+        "android_client_info": {
+          "package_name": "com.example.phonedown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7PF2fmXYHDhoPMCrlO_Jy87qm_U7UgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
